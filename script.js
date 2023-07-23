@@ -1,5 +1,5 @@
 const players = ["John", "Bob", "Alice", "Poppy"];
-const cap1 = [...players]
+const cap1 = players;
 const person = {
   name: "John Doe",
   age: 80,
